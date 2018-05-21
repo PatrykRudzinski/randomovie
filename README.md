@@ -1,6 +1,7 @@
 # Randomovie
 
 ## What will we watch tonight?
+### educational puropse web app based on [movie API](https://developers.themoviedb.org/3/getting-started/introduction)
 
 ## Suggested tech stack:
   * Django
@@ -20,7 +21,3 @@
     * I can add friends and see their movies _WATCHED_ (sorted by that friend rate) and _TO WATCH_
     * I can recommend movie for any of these friends
     * I can ask for recomendation any of my friends
-  
-  
-
-[API](https://developers.themoviedb.org/3/getting-started/introduction);
