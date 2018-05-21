@@ -1,7 +1,7 @@
 # Randomovie
 
 ## What will we watch tonight?
-### educational puropse web app based on [movie API](https://developers.themoviedb.org/3/getting-started/introduction)
+### For educational puropse web app based on [movie API](https://developers.themoviedb.org/3/getting-started/introduction)
 
 ## Suggested tech stack:
   * Django
